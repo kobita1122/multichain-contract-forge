@@ -1,0 +1,8 @@
+{
+  "activeRepos": ["Repo_81_Escrow", "Repo_82_DarkPool", "Repo_90_Aggregator"],
+  "settings": {
+    "useCreate2": true,
+    "verifySource": true,
+    "maxGasGwei": 50
+  }
+}
