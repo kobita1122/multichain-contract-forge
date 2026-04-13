@@ -1,0 +1,14 @@
+{
+  "name": "multichain-contract-forge",
+  "version": "1.0.0",
+  "description": "Batch deployment and verification CLI for Web3 protocols",
+  "bin": {
+    "forge-deploy": "./forge-deploy.js"
+  },
+  "dependencies": {
+    "ethers": "^6.10.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.0.0",
+    "chalk": "^4.1.2"
+  }
+}
